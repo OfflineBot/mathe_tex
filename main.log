@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.5.21)  12 JUN 2024 12:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.5.21)  12 JUN 2024 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -404,27 +404,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--71
 
  []
 
-)) (./include/stochastik/stochastik.tex [5]
+) (./include/vektoren/lage_von_ebenen.tex)) (./include/stochastik/stochastik.tex [5]
 Chapter 3.
 )) [6
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D1F3BA904E5ACC783ACD2E0015DF8C85;2252.
+(rerunfilecheck)             Checksum: 9189919BD8A9D0040855480A746CED5A;2993.
  ) 
 Here is how much of TeX's memory you used:
- 9474 strings out of 476034
- 148176 string characters out of 5792854
+ 9493 strings out of 476034
+ 148595 string characters out of 5792854
  1863388 words of memory out of 6000000
- 29776 multiletter control sequences out of 15000+600000
+ 29786 multiletter control sequences out of 15000+600000
  519199 words of font info for 56 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  79i,14n,79p,339b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on main.pdf (7 pages, 108699 bytes).
+Output written on main.pdf (7 pages, 112781 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
